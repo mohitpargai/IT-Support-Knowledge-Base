@@ -12,6 +12,13 @@ A practical, structured knowledge base for IT support professionals. This reposi
 ```text
 IT-Support-Knowledge-Base/
 ├── README.md
+├── Application-Support/
+│   ├── README.md
+│   ├── Application-Support-Triage.md
+│   ├── Application-Logs-Troubleshooting.md
+│   ├── API-Troubleshooting.md
+│   ├── Database-Connectivity.md
+│   └── Deployment-Release-Troubleshooting.md
 ├── Linux/
 │   ├── Basic-Commands.md
 │   ├── Network-Troubleshooting.md
@@ -36,6 +43,14 @@ IT-Support-Knowledge-Base/
 ```
 
 ## Quick Navigation
+### Application Support
+- [Application Support Overview](Application-Support/README.md)
+- [Application Support Triage](Application-Support/Application-Support-Triage.md)
+- [Application Log Troubleshooting](Application-Support/Application-Logs-Troubleshooting.md)
+- [API Troubleshooting](Application-Support/API-Troubleshooting.md)
+- [Database Connectivity Troubleshooting](Application-Support/Database-Connectivity.md)
+- [Deployment and Release Troubleshooting](Application-Support/Deployment-Release-Troubleshooting.md)
+
 ### Linux
 - [Basic Linux Commands](Linux/Basic-Commands.md)
 - [Linux Network Troubleshooting](Linux/Network-Troubleshooting.md)
